@@ -5,6 +5,7 @@
 This is an open-source toolkit designed to help you break free from "algorithmic ruts." Whether you are stuck in a doomscrolling loop, outgrown old interests, or just want a "digital palate cleanser," this guide provides the steps to pivot your feeds with intentionality.
 
 🛠 The 3-Step Workflow
+
 Step 1: The Clean Slate (The Scrub) 🧹
 Before planting new seeds, you must clear the "mud" from your canvas. Use these direct links to reset your platform history.
 
